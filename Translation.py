@@ -1,5 +1,5 @@
 
-#Programme to tranlate abbreviation
+#Programme to translate abbreviation
 #limited to one abbreviation. Will improve upon it
 
 
